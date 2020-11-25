@@ -1,11 +1,16 @@
 _repo: The-Madcap-Metalloids_63843
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63843-h/images/cover.jpg
 creator:
   author:
     agent_name: Athanas, W.V.
     gutenberg_agent_id: '52632'
     url: http://www.gutenberg.org/2009/agents/52632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63843#The-Madcap-Metalloids
 gutenberg_issued: '2020-11-22'
 gutenberg_type: Text
 identifiers:
